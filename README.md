@@ -1,2 +1,2 @@
 # Missionaries-and-Cannibals
-My attempt at modelling the missionaries and cannibals problem's state space as a graph
+My attempt at modeling the "missionaries and cannibals" problem's state space as part of an exercise in Stuart Russel's and Peter Norvig's "Artificial Intelligence: A Modern Approach". In hindsight, now knowing the solution to the problem, it would have been wise to make more thoughts on the game (e.g  the position of the boat as an important requirement) before attempting to model it. Otherwise, I am happy with the thoughts I made and the approach that I took.
